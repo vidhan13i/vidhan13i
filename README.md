@@ -7,7 +7,7 @@ I build scalable backend systems and agentic AI applications — from microservi
 </p>
 
 <p align="center">
-📫 <b>vidhanmanihar@gmail.com</b> &nbsp;|&nbsp; 📍 Pune, India
+📍 Pune, India
 </p>
 
 ---
@@ -61,27 +61,24 @@ I build scalable backend systems and agentic AI applications — from microservi
 
 ## 🌟 Featured Projects
 
-### 🏠 [HomeHaven](#) — Rental Platform (Microservices)
+### 🏠 [HomeHaven](https://github.com/vidhan13i/homehaven-rental-platform) — Rental Platform (Microservices)
 Production-style rental platform built with **Django DRF**, split into independent services — auth, profile, building, listings, applications, chat, notifications, and reviews.
 - Real-time chat via **Django Channels + WebSockets**
 - Async task processing with **Celery**, event streaming with **Kafka**, caching with **Redis**
 - JWT-based auth, SAGA-style distributed transaction handling across services
 - CI/CD pipeline with test coverage tracking
 
-### 📷 CADLens — Engineering PDF Balloon Detection
+### 📷 [CADLens](https://github.com/vidhan13i/REPO_NAME) — Engineering PDF Balloon Detection
 Computer vision tool built with **OpenCV + Tesseract OCR** to detect and read balloon annotations in engineering drawings. Built as part of an industry project with Factorial24.
 
-### 🎓 EarlyWarningAI — Multi-Agent Student Risk Evaluator
+### 🎓 [EarlyWarningAI](https://github.com/vidhan13i/student-risk-evaluator-ai-rag) — Multi-Agent Student Risk Evaluator
 A **LangGraph** multi-agent system with a **RAG** pipeline to flag at-risk students, coordinating multiple specialized agents over retrieved context.
 
-### 📰 News Bias Detector — Multi-Agent Debate System
-A **LangGraph + Groq** powered system where agents argue opposing perspectives on a news article to surface bias, using a debate-agent architecture.
-
-### 🏘 RentIndia — Microservices Flask Platform
+### 🏘 [RentIndia](https://github.com/vidhan13i/rental-platform-aws-ec2) — Microservices Flask Platform
 Rental platform deployed on **AWS EC2** with **Docker**, built with Flask microservices.
 
-### 📄 DocMind — RAG PDF Chat
-Chat-with-your-PDF app built with **LangChain**, **FAISS**, and **Groq** for fast retrieval-augmented generation.
+### 📄 [Dune-rag](https://github.com/vidhan13i/dune-rag) — RAG PDF Chat
+Dune RAG is a Retrieval-Augmented Generation (RAG) system built to act as a conversational encyclopedia for Frank Herbert's Dune universe. 
 
 ---
 
@@ -90,26 +87,3 @@ Chat-with-your-PDF app built with **LangChain**, **FAISS**, and **Groq** for fas
 - Event-driven architecture & Apache Kafka internals (topics, partitions, consumer groups, delivery guarantees)
 - Kubernetes & distributed systems
 - Agentic AI system design (multi-agent orchestration, RAG at scale)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vidhan13i&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidhan13i&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=vidhan13i&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
-## 📫 Reach Me
-
-<p align="left">
-<a href="mailto:vidhanmanihar@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>

@@ -7,7 +7,7 @@ I build scalable backend systems and agentic AI applications — from microservi
 </p>
 
 <p align="center">
-📫 <b>your-email@example.com</b> &nbsp;|&nbsp; 📍 Pune, India
+📫 <b>vidhanmanihar@gmail.com</b> &nbsp;|&nbsp; 📍 Pune, India
 </p>
 
 ---
@@ -109,7 +109,7 @@ Chat-with-your-PDF app built with **LangChain**, **FAISS**, and **Groq** for fas
 ## 📫 Reach Me
 
 <p align="left">
-<a href="mailto:your-email@example.com">
+<a href="mailto:vidhanmanihar@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>

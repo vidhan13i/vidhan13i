@@ -68,17 +68,19 @@ Production-style rental platform built with **Django DRF**, split into independe
 - JWT-based auth, SAGA-style distributed transaction handling across services
 - CI/CD pipeline with test coverage tracking
 
-### 📷 [CADLens](https://github.com/vidhan13i/REPO_NAME) — Engineering PDF Balloon Detection
-Computer vision tool built with **OpenCV + Tesseract OCR** to detect and read balloon annotations in engineering drawings. Built as part of an industry project with Factorial24.
-
 ### 🎓 [EarlyWarningAI](https://github.com/vidhan13i/student-risk-evaluator-ai-rag) — Multi-Agent Student Risk Evaluator
 A **LangGraph** multi-agent system with a **RAG** pipeline to flag at-risk students, coordinating multiple specialized agents over retrieved context.
+
+### 📷 [CADLens](https://github.com/vidhan13i/CADLens) — Engineering PDF Balloon Detection
+Computer vision tool built with **OpenCV + Tesseract OCR** to detect and read balloon annotations in engineering drawings. Built as part of an industry project with Factorial24.
 
 ### 🏘 [RentIndia](https://github.com/vidhan13i/rental-platform-aws-ec2) — Microservices Flask Platform
 Rental platform deployed on **AWS EC2** with **Docker**, built with Flask microservices.
 
 ### 📄 [Dune-rag](https://github.com/vidhan13i/dune-rag) — RAG PDF Chat
 Dune RAG is a Retrieval-Augmented Generation (RAG) system built to act as a conversational encyclopedia for Frank Herbert's Dune universe. 
+
+
 
 ---
 

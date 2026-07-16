@@ -83,7 +83,6 @@ I build scalable backend systems and agentic AI applications — from microservi
 <p>
 <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge" />
 <img src="https://img.shields.io/badge/LangGraph-1C1C1C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 <img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white" />

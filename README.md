@@ -169,11 +169,6 @@ A Retrieval-Augmented Generation system built to act as a conversational encyclo
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vidhan13i&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidhan13i&layout=compact&theme=tokyonight&hide_border=true" width="35%" />
-</p>
-
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vidhan13i&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 

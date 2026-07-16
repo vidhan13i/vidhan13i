@@ -14,11 +14,12 @@ I build scalable backend systems and agentic AI applications — from microservi
 <a href="https://github.com/vidhan13i"><img src="https://img.shields.io/github/followers/vidhan13i?label=Follow&style=social" /></a>
 <a href="mailto:vidhanmanihar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/vidhan-manihar-7a6953289/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=vidhan13i&label=Profile%20Views&color=00eaff&style=for-the-badge" alt="profile views" />
 </p>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,20&height=90&section=header" width="100%" />
 
 <!-- SNAKE START -->
 <picture>
@@ -28,9 +29,6 @@ I build scalable backend systems and agentic AI applications — from microservi
 </picture>
 <!-- SNAKE END -->
 
-> ⚠️ This snake needs a one-time workflow setup — see `snake.yml` below, and swap `vidhan13i/vidhan13i` for your actual **profile repo** (`username/username`) if different.
-
----
 
 ## 🚀 About Me
 
@@ -40,15 +38,25 @@ I build scalable backend systems and agentic AI applications — from microservi
 - 🌱 Currently deepening Kafka, Redis, Kubernetes, and distributed systems fundamentals
 - 🤝 Open to Backend SWE and AI/ML/GenAI internships & full-time roles
 
----
+<div align="center">
+
+### 🏆 Trophy Case
+
+<img src="https://github-profile-trophy.vercel.app/?username=vidhan13i&theme=algolia&no-frame=true&row=1&column=7&margin-w=8" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=70&section=header" width="100%" />
 
 ## 🛠 Tech Stack
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,js,django,fastapi,flask,postgres,mongodb,redis,kafka,docker,kubernetes,aws,terraform,githubactions,pytorch,sklearn,huggingface,opencv,git,linux&theme=dark" />
+
+</div>
+
+<br>
 
 **Backend**
 <p>
@@ -86,7 +94,7 @@ I build scalable backend systems and agentic AI applications — from microservi
 <img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,14,20&height=70&section=header" width="100%" />
 
 ## 🌟 Featured Projects
 
@@ -103,6 +111,8 @@ Production-style rental platform built with **Django DRF**, split into independe
 - JWT auth, SAGA-style distributed transactions across services
 - CI/CD pipeline with test coverage tracking
 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vidhan13i&repo=homehaven-rental-platform&theme=tokyonight&hide_border=true" width="100%" />
+
 </td>
 <td width="50%" valign="top">
 
@@ -110,6 +120,8 @@ Production-style rental platform built with **Django DRF**, split into independe
 **Multi-Agent Student Risk Evaluator**
 
 A **LangGraph** multi-agent system with a **RAG** pipeline to flag at-risk students, coordinating multiple specialized agents over retrieved context.
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vidhan13i&repo=student-risk-evaluator-ai-rag&theme=tokyonight&hide_border=true" width="100%" />
 
 </td>
 </tr>
@@ -121,6 +133,8 @@ A **LangGraph** multi-agent system with a **RAG** pipeline to flag at-risk stude
 
 Computer vision tool built with **OpenCV + Tesseract OCR** to detect and read balloon annotations in engineering drawings. Built as part of an industry project with Factorial24.
 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vidhan13i&repo=CADLens&theme=tokyonight&hide_border=true" width="100%" />
+
 </td>
 <td width="50%" valign="top">
 
@@ -128,6 +142,8 @@ Computer vision tool built with **OpenCV + Tesseract OCR** to detect and read ba
 **Microservices Flask Platform**
 
 Rental platform deployed on **AWS EC2** with **Docker**, built with Flask microservices.
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vidhan13i&repo=rental-platform-aws-ec2&theme=tokyonight&hide_border=true" width="100%" />
 
 </td>
 </tr>
@@ -138,6 +154,8 @@ Rental platform deployed on **AWS EC2** with **Docker**, built with Flask micros
 **RAG PDF Chat**
 
 A Retrieval-Augmented Generation system built to act as a conversational encyclopedia for Frank Herbert's Dune universe.
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vidhan13i&repo=dune-rag&theme=tokyonight&hide_border=true" width="100%" />
 
 </td>
 <td width="50%" valign="top">
@@ -152,7 +170,7 @@ A Retrieval-Augmented Generation system built to act as a conversational encyclo
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,20&height=70&section=header" width="100%" />
 
 ## 📊 GitHub Stats
 
@@ -165,10 +183,16 @@ A Retrieval-Augmented Generation system built to act as a conversational encyclo
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vidhan13i&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vidhan13i&theme=tokyo-night&hide_border=true&area=true" width="90%" />
+</p>
+
 ---
 
 <div align="center">
 
-📫 Reach me at **your-email@example.com** — always happy to talk backend systems, agentic AI, or interesting engineering problems.
+📫 Reach me at **vidhanmanihar@gmail.com** — always happy to talk backend systems, agentic AI, or interesting engineering problems.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,20&height=90&section=footer" width="100%" />
 
 </div>

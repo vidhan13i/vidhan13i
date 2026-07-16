@@ -47,7 +47,7 @@ I build scalable backend systems and agentic AI applications — from microservi
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,django,fastapi,flask,postgres,mongodb,redis,kafka,docker,kubernetes,aws,terraform,githubactions,pytorch,sklearn,huggingface,opencv,git,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,js,django,fastapi,flask,postgres,mongodb,redis,kafka,docker,kubernetes,aws,terraform,githubactions,huggingface,opencv,git,linux&theme=dark" />
 
 </div>
 

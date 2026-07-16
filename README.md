@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Vidhan+Manihar+%F0%9F%91%8B;Backend+Software+Engineer;AI+%2F+ML+%2F+Agentic+Systems+Engineer;Final-Year+Computer+Engineering+Student" alt="Typing SVG" />
+<img src="assets/banner.svg" width="100%" alt="Vidhan Manihar — banner" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFB347&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Vidhan+%F0%9F%91%8B;Backend+Software+Engineer;AI+%2F+ML+%2F+Agentic+Systems+Engineer;Final-Year+Computer+Engineering+Student" alt="Typing SVG" />
 
 <p>
 I build scalable backend systems and agentic AI applications — from microservices platforms handling real-time messaging and distributed transactions, to LangGraph-based multi-agent pipelines with RAG.
@@ -25,6 +27,8 @@ I build scalable backend systems and agentic AI applications — from microservi
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/vidhan13i/vidhan13i/output/github-contribution-grid-snake.svg" />
 </picture>
 <!-- SNAKE END -->
+
+> ⚠️ This snake needs a one-time workflow setup — see `snake.yml` below, and swap `vidhan13i/vidhan13i` for your actual **profile repo** (`username/username`) if different.
 
 ---
 
@@ -165,6 +169,6 @@ A Retrieval-Augmented Generation system built to act as a conversational encyclo
 
 <div align="center">
 
-📫 Reach me at **vidhanmanihar@gmail.com** — always happy to talk backend systems, agentic AI, or interesting engineering problems.
+📫 Reach me at **your-email@example.com** — always happy to talk backend systems, agentic AI, or interesting engineering problems.
 
 </div>

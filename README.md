@@ -40,11 +40,6 @@ I build scalable backend systems and agentic AI applications — from microservi
 
 <div align="center">
 
-### 🏆 Trophy Case
-
-<img src="https://github-profile-trophy.vercel.app/?username=vidhan13i&theme=algolia&no-frame=true&row=1&column=7&margin-w=8" />
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=70&section=header" width="100%" />
 
